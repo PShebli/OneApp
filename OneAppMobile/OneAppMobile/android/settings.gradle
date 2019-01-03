@@ -1,0 +1,3 @@
+rootProject.name = 'OneAppMobile'
+
+include ':app'
